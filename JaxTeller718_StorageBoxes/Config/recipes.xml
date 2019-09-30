@@ -1,0 +1,110 @@
+<!-- 
+Here is a template XML format for xpath for A17+ 
+
+This XML file has to be named the same as its vanilla file. If you are editing items.xml, this file needs to be called items.xml
+
+Here are some example xpath:
+	Changes the Light value to 0.45
+  	<set xpath="/items/item[@name='meleeToolTorch']/property[@name='LightValue']/@value">0.45</set>
+	
+	Adds in a new torch at the bottom of the items.xml
+	<append xpath="/items" >
+		<item name="AnothermeleeToolTorch">
+			<property name="Extends" value="meleeToolTorch"/>
+			<property name="LightValue" value="1" />
+		</item>
+	</append>
+	
+	Deletes the torch.
+	<remove xpath="/items/item[@name='meleeToolTorch']" />
+	
+-->
+<configs>
+
+
+
+	<append xpath="/recipes" >	
+	
+<recipe name="cntRHStorageArmor" count="1">
+	<ingredient name="resourceNail" count="10"/>
+	<ingredient name="resourceWood" count="10"/>
+</recipe>
+
+<recipe name="cntRHStorageWeapons2" count="1">
+	<ingredient name="resourceNail" count="10"/>
+	<ingredient name="resourceWood" count="10"/>
+</recipe>
+
+<recipe name="cntRHStorageClothes2" count="1">
+	<ingredient name="resourceNail" count="10"/>
+	<ingredient name="resourceWood" count="10"/>
+</recipe>
+
+<recipe name="cntRHStorageBooks" count="1">
+	<ingredient name="resourceNail" count="10"/>
+	<ingredient name="resourceWood" count="10"/>
+</recipe>
+
+<recipe name="cntRHStorageClothes" count="1">
+	<ingredient name="resourceNail" count="10"/>
+	<ingredient name="resourceWood" count="10"/>
+</recipe>
+
+<recipe name="cntRHStorageDrinks" count="1">
+	<ingredient name="resourceNail" count="10"/>
+	<ingredient name="resourceWood" count="10"/>
+</recipe>
+
+<recipe name="cntRHStorageFarming" count="1">
+	<ingredient name="resourceNail" count="10"/>
+	<ingredient name="resourceWood" count="10"/>
+</recipe>
+
+<recipe name="cntRHStorageFood" count="1">
+	<ingredient name="resourceNail" count="10"/>
+	<ingredient name="resourceWood" count="10"/>
+</recipe>
+
+<recipe name="cntRHStorageFuel" count="1">
+	<ingredient name="resourceNail" count="10"/>
+	<ingredient name="resourceWood" count="10"/>
+</recipe>
+
+<recipe name="cntRHStorageCarParts" count="1">
+	<ingredient name="resourceNail" count="10"/>
+	<ingredient name="resourceWood" count="10"/>
+</recipe>
+
+<recipe name="cntRHStorageMods" count="1">
+	<ingredient name="resourceNail" count="10"/>
+	<ingredient name="resourceWood" count="10"/>
+</recipe>
+
+<recipe name="cntRHStorageJunk" count="1">
+	<ingredient name="resourceNail" count="10"/>
+	<ingredient name="resourceWood" count="10"/>
+</recipe>
+
+<recipe name="cntRHStorageMining" count="1">
+	<ingredient name="resourceNail" count="10"/>
+	<ingredient name="resourceWood" count="10"/>
+</recipe>
+
+<recipe name="cntRHStorageParts" count="1">
+	<ingredient name="resourceNail" count="10"/>
+	<ingredient name="resourceWood" count="10"/>
+</recipe>
+
+<recipe name="cntRHStorageSchematics" count="1">
+	<ingredient name="resourceNail" count="10"/>
+	<ingredient name="resourceWood" count="10"/>
+</recipe>
+
+<recipe name="cntRHStorageSell" count="1">
+	<ingredient name="resourceNail" count="10"/>
+	<ingredient name="resourceWood" count="10"/>
+</recipe>
+
+	</append>
+
+</configs>

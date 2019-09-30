@@ -1,0 +1,135 @@
+<configs>
+	<append xpath="/blocks">
+		
+	<block name="cntRHStorageArmor">
+		<property name="Extends" value="cntStorageGeneric" />
+		<property name="CustomIcon" value="cntRHStorageArmor" />
+		<property name="Shape" value="ModelEntity" />
+		<property name="Model" value="#@modfolder:Resources/JaxTeller718_StorageBoxes.unity3d?storageArmor.prefab" />
+		<property name="SellableToTrader" value="false" />
+	</block>
+
+	<block name="cntRHStorageWeapons2">
+		<property name="Extends" value="cntStorageGeneric" />
+		<property name="CustomIcon" value="cntRHStorageWeapons2" />
+		<property name="Shape" value="ModelEntity" />
+		<property name="Model" value="#@modfolder:Resources/JaxTeller718_StorageBoxes.unity3d?storageWeapons2.prefab" />
+		<property name="SellableToTrader" value="false" />
+	</block>
+
+	<block name="cntRHStorageClothes2">
+		<property name="Extends" value="cntStorageGeneric" />
+		<property name="CustomIcon" value="cntRHStorageClothes2" />
+		<property name="Shape" value="ModelEntity" />
+		<property name="Model" value="#@modfolder:Resources/JaxTeller718_StorageBoxes.unity3d?storageClothes2.prefab" />
+		<property name="SellableToTrader" value="false" />
+	</block>
+	
+	<block name="cntRHStorageBooks">
+		<property name="Extends" value="cntStorageGeneric" />
+		<property name="CustomIcon" value="cntStorageBooks" />
+		<property name="Shape" value="ModelEntity" />
+		<property name="Model" value="#@modfolder:Resources/JaxTeller718_StorageBoxes.unity3d?storageBooks.prefab" />
+		<property name="SellableToTrader" value="false" />
+	</block>
+
+	<block name="cntRHStorageClothes">
+		<property name="Extends" value="cntStorageGeneric" />
+		<property name="CustomIcon" value="cntStorageClothes" />
+		<property name="Shape" value="ModelEntity" />
+		<property name="Model" value="#@modfolder:Resources/JaxTeller718_StorageBoxes.unity3d?storageClothes.prefab" />
+		<property name="SellableToTrader" value="false" />
+	</block>
+
+	<block name="cntRHStorageDrinks">
+		<property name="Extends" value="cntStorageGeneric" />
+		<property name="CustomIcon" value="cntStorageDrinks" />
+		<property name="Shape" value="ModelEntity" />
+		<property name="Model" value="#@modfolder:Resources/JaxTeller718_StorageBoxes.unity3d?storageDrinks.prefab" />
+		<property name="SellableToTrader" value="false" />
+	</block>
+
+	<block name="cntRHStorageFarming">
+		<property name="Extends" value="cntStorageGeneric" />
+		<property name="CustomIcon" value="cntStorageFarming" />
+		<property name="Shape" value="ModelEntity" />
+		<property name="Model" value="#@modfolder:Resources/JaxTeller718_StorageBoxes.unity3d?storageFarming.prefab" />
+		<property name="SellableToTrader" value="false" />
+	</block>
+
+	<block name="cntRHStorageFood">
+		<property name="Extends" value="cntStorageGeneric" />
+		<property name="CustomIcon" value="cntStorageFood" />
+		<property name="Shape" value="ModelEntity" />
+		<property name="Model" value="#@modfolder:Resources/JaxTeller718_StorageBoxes.unity3d?storageFood.prefab" />
+		<property name="SellableToTrader" value="false" />
+	</block>
+
+	<block name="cntRHStorageFuel">
+		<property name="Extends" value="cntStorageGeneric" />
+		<property name="CustomIcon" value="cntStorageFuel" />
+		<property name="Shape" value="ModelEntity" />
+		<property name="Model" value="#@modfolder:Resources/JaxTeller718_StorageBoxes.unity3d?storageFuel.prefab" />
+		<property name="SellableToTrader" value="false" />
+	</block>
+
+	<block name="cntRHStorageCarParts">
+		<property name="Extends" value="cntStorageGeneric" />
+		<property name="CustomIcon" value="cntStorageCarParts" />
+		<property name="Shape" value="ModelEntity" />
+		<property name="Model" value="#@modfolder:Resources/JaxTeller718_StorageBoxes.unity3d?storageCarParts.prefab" />
+		<property name="SellableToTrader" value="false" />
+	</block>
+
+
+	<block name="cntRHStorageMods">
+		<property name="Extends" value="cntStorageGeneric" />
+		<property name="CustomIcon" value="cntStorageMods" />
+		<property name="Shape" value="ModelEntity" />
+		<property name="Model" value="#@modfolder:Resources/JaxTeller718_StorageBoxes.unity3d?storageMods.prefab" />
+		<property name="SellableToTrader" value="false" />
+	</block>
+
+
+	<block name="cntRHStorageJunk">
+		<property name="Extends" value="cntStorageGeneric" />
+		<property name="CustomIcon" value="cntStorageJunk" />
+		<property name="Shape" value="ModelEntity" />
+		<property name="Model" value="#@modfolder:Resources/JaxTeller718_StorageBoxes.unity3d?storageJunk.prefab" />
+		<property name="SellableToTrader" value="false" />
+	</block>
+
+	<block name="cntRHStorageMining">
+		<property name="Extends" value="cntStorageGeneric" />
+		<property name="CustomIcon" value="cntStorageMining" />
+		<property name="Shape" value="ModelEntity" />
+		<property name="Model" value="#@modfolder:Resources/JaxTeller718_StorageBoxes.unity3d?storageMining.prefab" />
+		<property name="SellableToTrader" value="false" />
+	</block>
+
+	<block name="cntRHStorageParts">
+		<property name="Extends" value="cntStorageGeneric" />
+		<property name="CustomIcon" value="cntStorageParts" />
+		<property name="Shape" value="ModelEntity" />
+		<property name="Model" value="#@modfolder:Resources/JaxTeller718_StorageBoxes.unity3d?storageParts.prefab" />
+		<property name="SellableToTrader" value="false" />
+	</block>
+
+	<block name="cntRHStorageSchematics">
+		<property name="Extends" value="cntStorageGeneric" />
+		<property name="CustomIcon" value="cntStorageSchematics" />
+		<property name="Shape" value="ModelEntity" />
+		<property name="Model" value="#@modfolder:Resources/JaxTeller718_StorageBoxes.unity3d?storageSchematics.prefab" />
+		<property name="SellableToTrader" value="false" />
+	</block>
+
+	<block name="cntRHStorageSell">
+		<property name="Extends" value="cntStorageGeneric" />
+		<property name="CustomIcon" value="cntStorageSell" />
+		<property name="Shape" value="ModelEntity" />
+		<property name="Model" value="#@modfolder:Resources/JaxTeller718_StorageBoxes.unity3d?storageSell.prefab" />
+		<property name="SellableToTrader" value="false" />
+	</block>
+	
+	</append>
+</configs>
