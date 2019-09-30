@@ -1,0 +1,7 @@
+<config>
+
+	<append xpath="/lootcontainers/lootcontainer[@id='20']">
+		<item name="foodEgg" count="1,3"/>
+	</append>
+
+</config>

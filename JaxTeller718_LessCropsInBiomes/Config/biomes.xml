@@ -1,0 +1,11 @@
+<config>
+
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome/decorations/decoration[@type='block' and @blockname='plantedGoldenrod3Harvest']/@prob">0.005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome/decorations/decoration[@type='block' and @blockname='plantedCotton3Harvest']/@prob">0.015</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome/decorations/decoration[@type='block' and @blockname='plantedChrysanthemum3Harvest']/@prob">0.015</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/subbiome/decorations/decoration[@type='block' and @blockname='treeTallGrassDiagonal']/@prob">0.1</set>
+
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/decorations/decoration[@type='block' and @blockname='plantedCotton3Harvest']/@prob">0.0005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/decorations/decoration[@type='block' and @blockname='plantedChrysanthemum3Harvest']/@prob">0.0005</set>
+	<set xpath="/worldgeneration/biomes/biome[@name='pine_forest']/decorations/decoration[@type='block' and @blockname='treeTallGrassDiagonal']/@prob">0.08</set>	
+</config>

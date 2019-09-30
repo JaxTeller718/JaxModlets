@@ -1,0 +1,9 @@
+<config>
+
+	<set xpath="/lootcontainers/lootcontainer[@id='19']/@count">1,2</set>
+
+	<setattribute xpath="/lootcontainers/lootcontainer[@id='19']/item[@group='automotive+tools+junk']" name="prob">0.8</setattribute>
+	<setattribute xpath="/lootcontainers/lootcontainer[@id='19']/item[@group='ammo']" name="prob">0.2</setattribute>
+
+
+</config>

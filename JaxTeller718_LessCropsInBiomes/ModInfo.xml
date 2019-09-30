@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <xml>
 	<ModInfo>
-		<Name value="JaxTeller718_20MinuteDeathPenalty" />
-		<Description value="Reduces the Death Penalty from 30 minutes to 20 minutes." />
+		<Name value="JaxTeller718_LessCropsInBiomes" />
+		<Description value="Lowers chances of crops and grass spawning in biomes for performance" />
 		<Author value="JaxTeller718" />
 		<Version value="1.0" />
 		<Website value="https://ravenhearst.enjin.com/" />

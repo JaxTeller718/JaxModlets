@@ -1,0 +1,10 @@
+<config>
+
+	<append xpath="/lootcontainers/lootcontainer[@id='5']">
+		<item name="resourceFemur" count="1,2" prob=".5"/>
+	</append>
+
+	<append xpath="/lootcontainers/lootcontainer[@id='25']">
+		<item name="resourceFemur" count="1" prob=".3"/>
+	</append>
+</config>
