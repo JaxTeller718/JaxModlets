@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<xml>
-	<ModInfo>
-		<Name value="Makabriel_RealisticSafes" />
-		<Description value="Makes safes more realistic by adjusting loot and removing things such as shotguns from a wall safe" />
-		<Author value="Makabriel" />
-		<Version value="1.0.0" />
-	</ModInfo>
-</xml>

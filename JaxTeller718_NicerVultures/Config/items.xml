@@ -1,9 +1,0 @@
-<configs>
-	<set xpath="/items/item[@name='meleeHandAnimalZombieVulture']/property[@class='Action0']/property[@name='DamageEntity']/@value">5</set>
-
-	<insertAfter xpath="/items/item[@name='meleeHandAnimalZombieVulture']/property[@class='Action0']/property[@name='Buff']" >
-		<property name="Buff_chance" value="0.05,0.025"/>
-	</insertAfter>	
-
-	<remove xpath="/items/item[@name='meleeHandAnimalZombieVulture']/property[@class='Action1']"/>
-</configs>

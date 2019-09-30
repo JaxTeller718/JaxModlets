@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <xml>
 	<ModInfo>
-		<Name value="JaxTeller718_MoreQuestXP" />
-		<Description value="Doubles the Xp from Quests" />
+		<Name value="JaxTeller718_5MinuteDeathPenalty" />
+		<Description value="Reduces the Death Penalty from 30 minutes to 5 minutes." />
 		<Author value="JaxTeller718" />
 		<Version value="1.0" />
-		<Website value="" />
 	</ModInfo>
 </xml>

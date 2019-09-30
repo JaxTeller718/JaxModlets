@@ -4,6 +4,7 @@
 		<Name value="JaxTeller718_20MinuteDeathPenalty" />
 		<Description value="Reduces the Death Penalty from 30 minutes to 20 minutes." />
 		<Author value="JaxTeller718" />
-		<Version value="1.0.0" />
+		<Version value="1.0" />
+		<Website value="https://ravenhearst.enjin.com/" />		
 	</ModInfo>
 </xml>

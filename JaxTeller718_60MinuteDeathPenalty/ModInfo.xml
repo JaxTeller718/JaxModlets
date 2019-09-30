@@ -4,6 +4,7 @@
 		<Name value="JaxTeller718_60MinuteDeathPenalty" />
 		<Description value="Brings it back to 60 minutes." />
 		<Author value="JaxTeller718" />
-		<Version value="1.0.0" />
+		<Version value="1.0" />
+		<Website value="https://ravenhearst.enjin.com/" />
 	</ModInfo>
 </xml>

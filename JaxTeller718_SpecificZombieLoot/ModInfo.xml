@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<xml>
-	<ModInfo>
-		<Name value="JaxTeller718_SpecificZombieLoot" />
-		<Description value="Adds specific loot bags to zombies like the nurse, soldier, worker and hazmat" />
-		<Author value="JaxTeller718" />
-		<Version value="1.0.0" />
-	</ModInfo>
-</xml>

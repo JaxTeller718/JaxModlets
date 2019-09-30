@@ -1,5 +1,0 @@
-<configs>
-
-	<set xpath="/entity_classes/entity_class/drop[@name='resourceLeather']/@name">Animal Hide</set>
-
-</configs>

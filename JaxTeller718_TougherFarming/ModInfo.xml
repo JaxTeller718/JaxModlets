@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<xml>
-	<ModInfo>
-		<Name value="JaxTeller718_TougherFarming" />
-		<Description value="Doubles growth time for all crops to 4 hours and increases crops needed to make seeds to 5." />
-		<Author value="JaxTeller718" />
-		<Version value="1.0.0" />
-	</ModInfo>
-</xml>

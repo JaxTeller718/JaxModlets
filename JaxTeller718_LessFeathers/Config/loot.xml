@@ -1,5 +1,0 @@
-<config>
-
-	<set xpath="/lootcontainers/lootcontainer[@id='25']/item[@name='resourceFeather']/@count">2,4</set>
-
-</config>

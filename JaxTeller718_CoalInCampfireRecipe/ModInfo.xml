@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<xml>
-	<ModInfo>
-		<Name value="JaxTeller718_CoalInCampfireRecipe" />
-		<Description value="Adds Coal as a requirement in the campfire recipe as well as part of the quest to craft it." />
-		<Author value="JaxTeller718" />
-		<Version value="1.0.0" />
-	</ModInfo>
-</xml>

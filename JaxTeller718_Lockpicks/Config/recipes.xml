@@ -1,9 +1,0 @@
-<configs>
-
-	<append xpath="/recipes">
-		<recipe name="Lockpick" count="1" tags="learnable">
-			<ingredient name="resourceForgedIron" count="5"/>
-		</recipe>
-	</append>
-
-</configs>

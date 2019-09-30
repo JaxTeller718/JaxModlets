@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<xml>
-	<ModInfo>
-		<Name value="JaxTeller718_WrenchLootAdjustment" />
-		<Description value="Lowers chances of wrenches in sinks and Stiffs but keeps probability everywhere else" />
-		<Author value="JaxTeller718" />
-		<Version value="1.0.0" />
-	</ModInfo>
-</xml>

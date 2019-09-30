@@ -1,7 +1,0 @@
-<config>
-
-	<remove xpath="/lootcontainers/lootcontainer[@id='11']/item[@group='weaponsBasicGuns+ammo']" />
-	<append xpath="/lootcontainers/lootcontainer[@id='11']">
-		<item group="weaponsPistol+ammo" prob="0.45" />
-	</append>
-</config>

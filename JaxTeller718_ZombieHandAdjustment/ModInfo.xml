@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<xml>
-	<ModInfo>
-		<Name value="JaxTeller718_ZombieHandAdjustment" />
-		<Description value="Lowers the Zombie Reach from 1.65 to 1.25 and animals from 2 to 1.55 To Compensate for Server Lag" />
-		<Author value="JaxTeller718" />
-		<Version value="1.0.0" />
-	</ModInfo>
-</xml>

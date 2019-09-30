@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<xml>
-	<ModInfo>
-		<Name value="JaxTeller718_WorkingMicrowaves" />
-		<Description value="Adds a working Microwave that you wrench from in game microwaves. Adds basic recipes for heating canned food." />
-		<Author value="JaxTeller718" />
-		<Version value="1.0.0" />
-	</ModInfo>
-</xml>

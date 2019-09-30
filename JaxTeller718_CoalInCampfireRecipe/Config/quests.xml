@@ -1,7 +1,0 @@
-<config>
-
-	<insertAfter xpath="/quests/quest[@id='quest_BasicSurvival8']/property[@name='shareable']">
-		<objective type="FetchKeep" id="resourceCoal" value="2" phase="1" />
-	</insertAfter>
-
-</config>
