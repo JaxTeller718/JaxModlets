@@ -1,0 +1,38 @@
+Changelog V1.1
+
+Moved Resident_Evil_Mansion from SE Plains to Plains city. Lower ground height caused the prefab to cut off on bedrock, causing an issue with the distance mesh.
+
+Replaced Res Evil Mansion with and abandoned house and barn.
+
+Removed 1 Wheat and Carrot crop each in SE Plains due to placement issues in the terrain. 
+
+Adjust severl prefab orientations.
+
+
+
+V1.2
+	
+Water traps removed due to potential chunk corruption in game map.
+
+Bridge traps removed. Bridges reinforced.
+
+2 buildings in Ravenhearst city reseated due to instability.
+
+State Prison entry sign flipped to correct orientations
+
+Tower heights at State Prison adjusted.	
+
+
+V1.3
+
+Library height adjustment  -574 -2228
+
+Houses height adjustment -2063 -1434, -2118 -1398
+
+Waterworks buildings adjustment  382 -1478
+
+V1.3.1
+
+6 Buildings orientation/heights adjusted
+
+Minor tweaks to road connections.
