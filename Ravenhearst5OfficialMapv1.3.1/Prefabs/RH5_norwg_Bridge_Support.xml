@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab>
+    <property name="CopyAirBlocks" value="False" />
+    <property name="AllowTopSoilDecorations" value="False" />
+    <property name="TraderArea" value="False" />
+    <property name="ExcludeDistantPOIMesh" value="True" />
+    <property name="ExcludePOICulling" value="False" />
+    <property name="DifficultyTier" value="2" />
+    <property name="Zoning" value="NoZone" />
+    <property name="RotationToFaceNorth" value="2" />
+    <property name="YOffset" value="-22" />
+    <property name="DistantPOIYOffset" value="0" />
+    <property name="AllowedBiomes" value="desert" />
+    <property name="AllowedTownships" value="town,wilderness" />
+    <property name="EditorGroups" value="Wilderness" />
+</prefab>
